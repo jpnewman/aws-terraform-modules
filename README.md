@@ -1,7 +1,7 @@
 # AWS Terraform Modules
 
 ## public-ip (work-in-progress)
-This module usages [http://ipecho.net/plain]() to get you public ip address
+This module usages <http://ipecho.net/plain> to get you public ip address
 
 In order for the ```public_ip``` address variable to be update Makefile ```./public_ip/Makefile``` should be called before ```terraform plan``` or ```terraform apply``` commands.
 
